@@ -12,7 +12,7 @@ I'm a first-year Computer Science Engineering student with a specialization in A
 - 📚 Enthusiastic learner of programming languages and new technologies
 - 🏆 Active participant in coding competitions and hackathons
 - 🌍 Committed to open-source contributions
-- 🎓 Currently pursuing B.Tech at KMCE
+- 🎓 Currently pursuing B.Tech 
 
 ## 💼 Technical Skills
 
