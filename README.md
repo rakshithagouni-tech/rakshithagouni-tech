@@ -24,6 +24,52 @@ I'm a first-year Computer Science Engineering student with a specialization in A
 **Databases:** SQL, MongoDB  
 **Platforms:** Unstop, Kaggle, LeetCode  
 
+# 💻 Tech Stack:
+![Python](https://shields.io) ![Java](https://shields.io) ![C++](https://shields.io) ![C](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) 
+
+![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![SciPy](https://shields.io)
+
+![AWS](https://shields.io) ![Django](https://shields.io) ![NodeJS](https://shields.io) ![Snowflake](https://shields.io)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://vercel.app" alt="Trophies" width="100%" />
+</p>
+
+---
+
+# 📊 Performance Metrics:
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://shion.dev" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://shion.dev" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://demolab.com" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://vercel.app" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✍️ Developer Thoughts:
+<p align="center">
+  <img src="https://vercel.app" width="100%"/>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com" alt="Views" />
+</p>
 ## 🏆 Achievements & Highlights
 
 - 🎯 Active participant on **Unstop** - engaging in coding challenges and competitions
