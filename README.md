@@ -68,7 +68,7 @@ I'm a first-year Computer Science Engineering student with a specialization in A
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakshithagouni-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rakshithagouni-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=rakshithagouni-tech&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 
 Feel free to explore my repositories! I'm always open to collaborating on AI/ML projects, solving interesting problems, or discussing anything tech-related. Let's connect and grow together! 🚀
